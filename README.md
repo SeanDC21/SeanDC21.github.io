@@ -5,7 +5,7 @@
 I am a college student at Northern Kentucky University studying within the School of Computing and Analytics, with an expected graduation in May 2027. My long-term career ambition is to lead enterprise security strategy as a Chief Information Security Officer (CISO). Currently, I serve as a Resident Assistant, which allows me to develop community leadership skills alongside my technical focus on areas like digital forensics, infrastructure as code, and threat hunting. 
 
 ## Resume
-[Link to updated PDF Resume]
+[Click here to view my updated Resume (PDF)](Sean_Cancel_Resume.pdf)
 
 ## Academic Work & Professional Development
 
