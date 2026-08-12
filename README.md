@@ -87,4 +87,11 @@ driver.quit()
 ## Internship Content
 
 ### GE Aerospace
-[High-level, non-confidential overview of current internship work and objectives goes here.]
+**Digital Technology Project Analyst Intern** | *May 2026 – August 2026*
+
+During my internship, I focused on analyzing and optimizing Corporate Affairs tools and processes to drive efficiency and reduce technical debt. My work centered on bridging the gap between business needs and digital solutions.
+
+*   **Software Consolidation & Cost Mitigation:** Analyzed historical contracts and presented business cases for consolidating Digital Asset Management and Philanthropy tools, projecting over $140K in cost savings for the upcoming budget cycle.
+*   **Documentation & Standardization:** Established official "Standard Work" practices to guide future documentation. I authored over 30 Confluence pages and implemented a universal product overview template to streamline knowledge transfer.
+*   **Stakeholder & Vendor Coordination:** Orchestrated user testing and vendor outreach for new software platforms, coordinating strategic calls to align external partners with internal Corporate Affairs stakeholders.
+
