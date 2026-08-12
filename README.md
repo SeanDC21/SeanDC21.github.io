@@ -17,7 +17,7 @@ I recently participated in the Resolute Man Commercial Banking Experience hosted
 **Residence Hall Access Provisioning Script**  
 *Technologies used: Python, Selenium WebDriver*
 
-To streamline administrative tasks during my Resident Assistant tenure, I developed a Python script utilizing Selenium to automate the manual, repetitive process of making swipe cards in the university's web-based access control system. The script handles iframe switching, DOM element interactions, and includes a global hotkey kill switch as a fail-safe in case the web portal's UI changes during execution.
+To streamline administrative tasks during my Resident Assistant tenure, I developed a Python script utilizing Selenium to automate the manual, repetitive process of provisioning swipe cards in the university's web-based access control system. The script handles iframe switching, DOM element interactions, and includes a global hotkey kill switch as a fail-safe in case the web portal's UI changes during execution.
 
 ```python
 from selenium import webdriver
@@ -38,7 +38,7 @@ keyboard.add_hotkey('`', emergency_quit)
 
 # Setup driver and navigate to portal
 driver = webdriver.Chrome()
-driver.get("[https://rs2.hh.nku.edu/AIUniversal/Main/Cardholders.aspx](https://rs2.hh.nku.edu/AIUniversal/Main/Cardholders.aspx)")
+driver.get("https://rs2.hh.nku.edu/AIUniversal/Main/Cardholders.aspx")
 
 # Wait for manual SSO login and portal load
 print("Awaiting manual login... (30s timeout)")
@@ -83,8 +83,6 @@ for card in card_numbers:
 
 print("Provisioning complete.")
 driver.quit()
-python'''
-
 ## Internship Content
 
 ### GE Aerospace
